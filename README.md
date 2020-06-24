@@ -1,9 +1,11 @@
 PROGRAMA DE CONSOLA CON LENGUAJE C#
 
-Utilizamos el lenguaje de programación orientado a objetos, contiene ejemplos de Write, WriteLine, Read y Readme y lo realice utilizando un lenguaje de programación orientado a objetos (POO).
+Utilizamos el lenguaje de programación orientado a objetos, contiene ejemplos de Write, WriteLine, Read y Readme, se acceden desde args[] y lo realice utilizando un lenguaje de programación orientado a objetos (POO).
+
+ 
 
 
--Pre-requisitos 📋
+-Pre-requisitos: 📋
 
 
 El programa que necesité para hacer mi proyecto es:
@@ -12,7 +14,7 @@ El programa que necesité para hacer mi proyecto es:
       •	Visual Studio 2019: Permite a los desarrolladores crear sitios y aplicaciones web, así como servicios web en cualquier entorno compatible con la plataforma. NET
 
 
--Instalación 🔧
+-Instalación: 🔧
 
 
 Entramos a la siguiente página: https://visualstudio.microsoft.com/es/downloads/
@@ -31,7 +33,7 @@ Entramos a la siguiente página: https://visualstudio.microsoft.com/es/downloads
 Realice un código para que las demás personas que lo vean puedan entender con facilidad.
 
 
--Construido con 🛠️
+-Construido con: 🛠️
 
 
 Este proyecto fue hecho con C# que sirve para crear aplicaciones de escritorio  y para integrarlo con otras tecnologías, entornos de desarrollo y lenguajes de programación, es quizás el mejor lenguaje de programación que tiene la empresa Microsoft en la actualidad.
@@ -40,7 +42,7 @@ Este proyecto fue hecho con C# que sirve para crear aplicaciones de escritorio  
 Nos basamos en el lenguaje de programación orientada a objetos que  es una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real 
 
 
--Wiki 📖
+-Wiki: 📖
 
 
 Puedes encontrar mucho más información en las siguientes páginas:
@@ -55,7 +57,7 @@ Puedes encontrar mucho más información en las siguientes páginas:
       •	Programación Orientada a Objetos:  https://desarrolloweb.com/articulos/499.php
 
 
--Autores ✒️
+-Autores: ✒️
 
 
       •	Paola Franco – Estudiante de Desarrollo en Software
