@@ -1,4 +1,4 @@
-Programa de consola con lenguaje C#
+PROGRAMA DE CONSOLA CON LENGUAJE C#
 
 Utilizamos el lenguaje de programación orientado a objetos, contiene ejemplos de Write, WriteLine, Read y Readme y lo realice utilizando un lenguaje de programación orientado a objetos (POO).
 
@@ -7,6 +7,8 @@ Utilizamos el lenguaje de programación orientado a objetos, contiene ejemplos d
 
 
 El programa que necesité para hacer mi proyecto es:
+
+
       •	Visual Studio 2019: Permite a los desarrolladores crear sitios y aplicaciones web, así como servicios web en cualquier entorno compatible con la plataforma. NET
 
 
@@ -24,6 +26,8 @@ Entramos a la siguiente página: https://visualstudio.microsoft.com/es/downloads
 
 
 -Pruebas de estilo de codificación ⌨️
+
+
 Realice un código para que las demás personas que lo vean puedan entender con facilidad.
 
 
@@ -40,8 +44,14 @@ Nos basamos en el lenguaje de programación orientada a objetos que  es una form
 
 
 Puedes encontrar mucho más información en las siguientes páginas:
+
+
       •	C#: https://docs.microsoft.com/en-us/dotnet/csharp/
+
+
       •	Visual Studio 2019: https://visualstudio.microsoft.com/es/vs/
+
+
       •	Programación Orientada a Objetos:  https://desarrolloweb.com/articulos/499.php
 
 
